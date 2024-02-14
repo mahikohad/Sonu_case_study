@@ -4,5 +4,25 @@
     "username": "mau",
     "password": "$2b$10$lqFNe0a5tw7DXNNkcXNReuwN6HGLWjcrRzRr8Q0v.Cm75/me1nOFm",
     "email": "maukohad@gmail.com"
+  },
+  {
+    "firstname": "mahi",
+    "username": "mahi",
+    "password": "$2b$10$gORMlbuysfaKQP3XRDL/QOJjnqhlCK0FwkQj6mx2Ml8OPf2o9sVC6",
+    "email": "mahi@gmail"
+  },
+  {
+    "firstname": "satish",
+    "lastname": "reddy",
+    "username": "satishS",
+    "password": "$2b$10$4veUyqcENKiwbppi9fQMYOtTIZMM9bxTiXS8c7G/KXFe4IN0Y.Uxa",
+    "email": "satish@gmail.com"
+  },
+  {
+    "firstname": "sonu",
+    "lastname": "kohad",
+    "username": "sonuk",
+    "password": "$2b$10$VE1MN5rgncG.Pn47lMzfTuqd58G3WbdS7CwPixzcAOe1q4dTMyWW6",
+    "email": "sonu@gmail.com"
   }
 ]

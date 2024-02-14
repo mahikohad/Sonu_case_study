@@ -45,3 +45,9 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .nav-links {
+    display: none;
+  }
+}
