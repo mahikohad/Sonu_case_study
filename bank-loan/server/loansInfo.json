@@ -1,0 +1,158 @@
+{
+  "loans": [
+    {
+      "id": 1,
+      "purpose": "Education",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 2,
+      "purpose": "Home Improvement",
+      "status": "completed",
+      "accountant": {
+        "Accounting Firm": "ABC Accounting",
+        "Accountant's Name": "John Doe",
+        "Accountant's Telephone Number": "123-456-7890",
+        "Accountant's Email Address": "mailto:john.doe@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "purpose": "Medical Expenses",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 4,
+      "purpose": "Vacation",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 5,
+      "purpose": "Car Purchase",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 6,
+      "purpose": "Debt Consolidation",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 7,
+      "purpose": "Business Expansion",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 1,
+      "purpose": "Education",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 2,
+      "purpose": "Home Improvement",
+      "status": "completed",
+      "accountant": {
+        "Accounting Firm": "ABC Accounting",
+        "Accountant's Name": "John Doe",
+        "Accountant's Telephone Number": "123-456-7890",
+        "Accountant's Email Address": "mailto:john.doe@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "purpose": "Medical Expenses",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 4,
+      "purpose": "Vacation",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 5,
+      "purpose": "Car Purchase",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 6,
+      "purpose": "Debt Consolidation",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    },
+    {
+      "id": 7,
+      "purpose": "Business Expansion",
+      "status": "In Progress",
+      "accountant": {
+        "Accounting Firm": "",
+        "Accountant's Name": "",
+        "Accountant's Telephone Number": "",
+        "Accountant's Email Address": ""
+      }
+    }
+  ]
+}
